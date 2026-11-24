@@ -1,0 +1,6 @@
+# Generated data and reports are not source
+*.db
+*.db-wal
+*.db-shm
+reports/
+__pycache__/
